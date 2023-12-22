@@ -1,0 +1,5 @@
+opencv-python==4.8.0.74
+matplotlib==3.3.4
+
+# process data
+albumentations
