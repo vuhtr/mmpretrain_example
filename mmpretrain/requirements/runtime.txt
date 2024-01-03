@@ -1,11 +1,7 @@
-aenum
-grpcio
+einops
+importlib-metadata
+mat4py
 matplotlib
-mmengine
-multiprocess
+modelindex
 numpy
-onnx>=1.13.0
-prettytable
-protobuf<=3.20.2
-six
-terminaltables
+rich

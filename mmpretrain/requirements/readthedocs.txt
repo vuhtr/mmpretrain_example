@@ -1,9 +1,7 @@
-breathe
-h5py
-mmcv
+--extra-index-url https://download.pytorch.org/whl/cpu
+mmcv-lite>=2.0.0rc4
 mmengine
-onnx>=1.8.0
-opencv-python==4.5.4.60
-sphinxcontrib-mermaid
+pycocotools
 torch
-urllib3<2.0.0
+torchvision
+transformers
